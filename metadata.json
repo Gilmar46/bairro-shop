@@ -1,0 +1,6 @@
+{
+  "name": "BairroMarket",
+  "description": "Marketplace local multi-lojas com cardápios, variações, e documentação técnica completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
